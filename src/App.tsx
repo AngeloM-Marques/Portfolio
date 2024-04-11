@@ -6,18 +6,21 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h3>Project Name</h3>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
+          lacus risus, dapibus nec lacus non, mattis rutrum ligula. Aenean
+          efficitur nec quam a euismod. Fusce ut porta tortor. Mauris nec
+          tincidunt neque. Etiam turpis diam, accumsan sed ultricies nec,
+          dignissim sed lectus. Donec sed vulputate quam. Donec faucibus
+          convallis mi, et interdum metus pharetra ac. Sed enim enim, euismod
+          non nunc vel, pharetra porttitor justo. Praesent eleifend tortor
+          risus, a accumsan urna placerat nec. Cras in malesuada dui, at pretium
+          massa. Sed in ante consectetur, venenatis justo ac, euismod orci.
+          Aliquam ac pulvinar augue, bibendum malesuada ex. Fusce pretium nisi
+          ac sapien viverra, non luctus velit laoreet. Fusce neque tortor,
+          posuere id lectus id, malesuada varius lectus.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
